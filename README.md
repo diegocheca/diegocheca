@@ -38,3 +38,9 @@ width="25px"
 heigth="25px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png"
 />
+<img 
+alt="vue"
+width="25px"
+heigth="25px"
+src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png"
+/>
