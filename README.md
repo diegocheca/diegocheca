@@ -86,4 +86,10 @@ width="25px"
 heigth="25px"
 src="https://raw.githubusercontent.com/blacktop/docker-elastic-stack/master/docs/img/el_stack_logo.png"
 />
+<img 
+alt="elk"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png"
+/>
 
