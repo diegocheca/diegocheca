@@ -31,4 +31,10 @@ Languages and Tools:
 ### :books: Lastest Blog Posts
 
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
+Languages:
+<img 
+alt="js"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png"
+/>
