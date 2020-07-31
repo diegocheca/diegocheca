@@ -7,10 +7,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cibersecurity, my personal blog and some developments
 - 🌱 I’m currently learning Flutter and English
 - 👯 I’m looking to collaborate on a open source big project
-- :star: I’m student at Universidad Nacional de San Juan
-- 🤔 I’m looking for help with ...
+- :star: I’m a postgraduate student at Universidad Nacional de San Juan
+- 🤔 I’m looking for help with desing
+- :octocat: 2021 gols: 'd like became in a professional freelancer :muscle: 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like spent time draw on my computer 
+<!-- - 📫 How to reach me: ... 
+- 😄 Pronouns: ...-->
+- ⚡ Fun fact: I like spent time drawing on my computer and go to gym
 
+Connect with me:
+
+Languages and Tools:
