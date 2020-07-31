@@ -1,4 +1,10 @@
 ### Hi there 👋 I'm Diego Checarelli
+
+<img 
+aling="left"
+alt="Dieguito y jack"
+src="https://avatars1.githubusercontent.com/u/4382325?s=460&amp;u=3f3c599e19eba845d2e5c3cd42a074dd30b9d7a8&amp;v=4"
+/>
 <!--
 **diegocheca/diegocheca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -18,3 +24,6 @@ Here are some ideas to get you started:
 Connect with me:
 
 Languages and Tools:
+
+
+### :books: Lastest Blog Posts
