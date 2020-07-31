@@ -92,4 +92,11 @@ width="25px"
 heigth="25px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png"
 />
+<img 
+alt="wazuh"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wazuh_blue.png/200px-Wazuh_blue.png"
+/>
+
 
