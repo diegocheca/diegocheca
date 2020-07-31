@@ -3,6 +3,8 @@
 <img 
 aling="left"
 alt="Dieguito y jack"
+width="150px"
+heigth="150px"
 src="https://avatars1.githubusercontent.com/u/4382325?s=460&amp;u=3f3c599e19eba845d2e5c3cd42a074dd30b9d7a8&amp;v=4"
 />
 <!--
