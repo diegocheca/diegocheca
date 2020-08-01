@@ -104,7 +104,6 @@ width="25px"
 heigth="25px"
 src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/136px-MySQL.svg.png"
 />
-
 <img 
 alt="html5"
 width="25px"
@@ -117,7 +116,6 @@ width="25px"
 heigth="25px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"
 />
-
 <img 
 alt="github"
 width="25px"
