@@ -22,8 +22,9 @@ Here are some ideas to get you started:
  📫 How to reach me: ... 
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: I like spent time drawing on my computer and go to gym
-
+<hr>
 Connect with me:
+<a href="https://diegocheca.github.io/portfolio/">
 <img 
 aling="left"
 alt="codepen"
@@ -31,9 +32,8 @@ width="150px"
 heigth="150px"
 src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Feather-logos-codepen.svg"
 />
-<!--
+ </a>
 
--->
 <a href="https://diegocheca.github.io/portfolio/">
  <img 
  aling="personal-page"
