@@ -24,7 +24,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like spent time drawing on my computer and go to gym
 
 Connect with me:
+<img 
+aling="left"
+alt="codepen"
+width="150px"
+heigth="150px"
+src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Feather-logos-codepen.svg"
+/>
+<!--
 
+-->
+<a href="https://diegocheca.github.io/portfolio/">
+ <img 
+ aling="personal-page"
+ width="150px"
+ heigth="150px"
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Sitio_Web.png/120px-Logo_Sitio_Web.png"
+ />
+</a>
 Languages and Tools:
 
 
