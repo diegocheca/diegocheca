@@ -42,6 +42,20 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Feather-logos-codepen.s
  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Sitio_Web.png/120px-Logo_Sitio_Web.png"
  />
 </a>
+
+<!--
+website
+twitter
+youtube
+instagram
+likenedin
+webdevplaylist
+jsplaylist
+cssplaylist
+reactplaylist
+
+hashnode
+-->
 <br>
 
 ### :books: Lastest Blog Posts
