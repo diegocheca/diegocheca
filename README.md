@@ -98,5 +98,29 @@ width="25px"
 heigth="25px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wazuh_blue.png/200px-Wazuh_blue.png"
 />
+<img 
+alt="mysql"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/136px-MySQL.svg.png"
+/>
 
+<img 
+alt="html5"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png"
+/>
+<img 
+alt="git"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png"
+/>
 
+<img 
+alt="github"
+width="25px"
+heigth="25px"
+src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+/>
