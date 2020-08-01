@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  📫 How to reach me: ... 
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: I like spent time drawing on my computer and go to gym
-<hr>
-Connect with me:
+<br>
+###Connect with me:
 <a href="https://diegocheca.github.io/portfolio/">
 <img 
 aling="left"
@@ -42,10 +42,14 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Feather-logos-codepen.s
  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Sitio_Web.png/120px-Logo_Sitio_Web.png"
  />
 </a>
-Languages and Tools:
-
+<br>
 
 ### :books: Lastest Blog Posts
+
+### Languages and Tools:
+
+
+
 
 
 Languages:
