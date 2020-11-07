@@ -61,6 +61,15 @@ hashnode
 ### :books: Lastest Blog Posts
 
 ### Languages and Tools:
+<a href="https://hashnode.com/@diegocheca">
+<img 
+aling="left"
+alt="js"
+width="25px"
+heigth="25px"
+src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress"
+/>
+</a>
 
 
 
